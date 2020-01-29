@@ -3,3 +3,8 @@
 ################################################################################
 
 /bin/Debug
+/.vs
+/obj
+/packages/SpecFlow.1.9.0
+/BerlinClockTests/bin/Debug/netcoreapp2.2
+/BerlinClockTests/obj
